@@ -10,7 +10,8 @@ on:
     branches: [ "main" ]
 
 jobs:
-  dev:
+  test:
+    name: Running Node Unit Tests
 
     runs-on: ubuntu-latest
 
