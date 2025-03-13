@@ -11,7 +11,7 @@ on:
 
 jobs:
   test:
-    name: Running Node Unit Tests
+    name: Running Node Unit Tests cases
 
     runs-on: ubuntu-latest
 
